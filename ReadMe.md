@@ -1,29 +1,30 @@
+#Useful Commands
 
-Json server
+##Json server Related
 
 
 	json-server --watch users.json
 
 
 
-Angular
+##Angular
 
-	Install
+	###Install
 
 		npm install -g @angular/cli
 		ng new my-dream-app
 		cd my-dream-app
 
-	For Compile
+	###Compile
 
 		ng s -O
 
 
-	Module Add 
+	###Module Add 
 
 		ng generate component components/layout/heade
 		ng g c "componenet name"
 
-	Service Add
+	##Service Add
 
 		ng g s "service name"
