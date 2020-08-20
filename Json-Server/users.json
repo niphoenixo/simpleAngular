@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 12,
+      "name": "Nisha",
+      "email": "nisha@test.com",
+      "phone":"9988990088",
+      "sale":"340",
+      "status":"active"
+    },
+    {
+      "id": 22,
+      "name": "Manisha",
+      "email": "manisha@test.com",
+      "phone":"9988990077",
+      "sale":"140",
+      "status":"Inactive"
+    },
+    {
+      "id": 103,
+      "name": "Isha",
+      "email": "isha@test.com",
+      "phone":"9988990066",
+      "sale":"240",
+      "status":"active"
+    },
+    {
+      "id": 408,
+      "name": "ishita",
+      "email": "ishita@test.com",
+      "phone":"9988990055",
+      "sale":"40",
+      "status":"Inactive"
+    },
+    {
+      "id": 9,
+      "name": "misha",
+      "email": "misha@test.com",
+      "phone":"9988990044",
+      "sale":"540",
+      "status":"active"
+    }
+  ]
+}
