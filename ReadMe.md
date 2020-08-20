@@ -1,13 +1,13 @@
-#Useful Commands
+ #Useful Commands
 
-##Json server Related
+ ##Json server Related
 
 
 	json-server --watch users.json
 
 
 
-##Angular
+ ##Angular
 
 	###Install
 
